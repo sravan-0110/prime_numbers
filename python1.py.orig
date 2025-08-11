@@ -10,3 +10,8 @@ if num > 1:
 
             print(num, "is not a prime number")
             print("hello")
+<<<<<<< HEAD
+            program done by sravan
+=======
+            program done by guru
+>>>>>>> sr1
