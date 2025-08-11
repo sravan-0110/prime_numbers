@@ -10,3 +10,4 @@ if num > 1:
 
             print(num, "is not a prime number")
             print("hello")
+            program done by sravan
